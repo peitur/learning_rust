@@ -1,0 +1,7 @@
+[package]
+name = "learning_rust_myelf"
+version = "0.0.1"
+authors = ["Peter Bartha <peitur@gmail.com>" ]
+eddition = "2019"
+
+[dependencies]

@@ -1,6 +1,6 @@
 
 run:
-	rust run src/start.rs
+	rustc run src/start.rs
 
 main : all
 
